@@ -78,6 +78,10 @@
     docker-compose up # or docker-compose start
     ```
 
+## Alternatives
+
+https://github.com/TrafeX/docker-wordpress
+
 ## Credits
 
 This project is heavily inspired by [WPDC - WordPress Docker Compose](https://github.com/nezhar/wordpress-docker-compose) project with necessary customization.
